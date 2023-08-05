@@ -591,6 +591,11 @@ section{
 
 @media (max-width:768px){
 
+    body {
+        overflow-x: hidden;
+        position: relative;
+    }
+
     #menu-btn{
         display: inline-block;
     }
